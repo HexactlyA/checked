@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGmHYaXffzf7KVyT/biD+c2g/s5Ivu0rTAcDjdeWl7Ku alpha@ip-10-128-0-31" >> /home/gamma/.ssh/authorized_keys
+echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGmHYaXffzf7KVyT/biD+c2g/s5Ivu0rTAcDjdeWl7Ku alpha@ip-10-128-0-31" >> /tmp/.ssh/authorized_keys
